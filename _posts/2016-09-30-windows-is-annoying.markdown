@@ -20,9 +20,7 @@ I am a developer and sometimes I switch OS. This means turning the computer off 
 I then want to mount the NTFS partition from Windows in my Linux system. 
 But the new restart behaviour seems to be one of semy sleep, where it never actually goes down and sets the NTFS partition in a "resting" place, where it can only be mounted as "read only". 
 Shutting down the system does not help either: same thing - the NTFS partition never gets powered off properly.   
-I have to 
-	shutdown /r /t 0
-The system in order for it to actually go down properly. 
+I have to `shutdown /r /t 0` The system in order for it to actually go down properly. 
 
 It is the little things that make this system so unbearingly annoying to me. 
 
