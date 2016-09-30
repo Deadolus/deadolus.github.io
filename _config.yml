@@ -4,7 +4,7 @@ header-img: img/home-bg-2.jpg
 email: smn.egli+githubpages@gmail.com
 copyright_name: Simon Egli
 description: "Stuff about engineering and technology"
-baseurl: "/deadolus.github.io"
+baseurl: ""
 url: "https://deadolus.github.io"
 twitter_username: smnegli
 github_username:  deadolus
@@ -13,7 +13,7 @@ email_username:
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-85051133-1
 
 # Build settings
 markdown: kramdown
